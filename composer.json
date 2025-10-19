@@ -1,7 +1,7 @@
 {
     "name": "lunapress/frontend-kit",
     "description": "Complete frontend package with required LunaPress implementations",
-    "type": "meta-package",
+    "type": "metapackage",
     "authors": [
         {
             "name": "Onepix",
